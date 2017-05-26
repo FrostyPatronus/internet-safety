@@ -17,5 +17,6 @@ To choose a good password, you need to:
 ### Theory behind this: 
 The time it requires to guess a password scales *exponentially* with the length of the password.
 It takes approximately 19 hours to crack a 9-character password "BurBurnet," but it takes *3 thousand years* to guess a 12-character password "BurBurnet888"
+
 ![XKCD Comic](https://imgs.xkcd.com/comics/password_strength.png)
 
