@@ -11,8 +11,8 @@ To choose a good password, you need to:
         * "Riven_is_not_Overpowered76"
         * "Kitchen_Master_Sucks99"
     * Bad Examples: 
-        * "m1k32m4m1mlk14k21m4lk214m3k" <--- Long, but easily forgettable
-        * "Timothy" <--- Easily remembered, but short
+        * "m1k32m4m1mlk14k21m4lk214m3k" <--- *Long, but easily forgettable*
+        * "Timothy" <--- *Easily remembered, but short*
 
 ### Theory behind this: 
-![XKCD Comic](https://imgs.xkcd.com/comics/password_strength.png)]\
+![XKCD Comic](https://imgs.xkcd.com/comics/password_strength.png)
