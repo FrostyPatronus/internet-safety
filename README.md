@@ -37,3 +37,8 @@ How to not get a virus
     * A USB can put a malicious program in the autorun. Opening the USB manually prevents that from running.
 
 ![USB autorun](http://www.samlogic.net/articles/images/autoplay-dialogbox-with-worm-conficker.png)
+
+# Phishing
+[![Computerphile Video](http://img.youtube.com/vi/E_wX40fQwEA/0.jpg)](https://www.youtube.com/watch?v=E_wX40fQwEA)
+
+* Never send sensitive information (password, credit cards, etc) to websites that starts with an *http* (e.g. "http://youtube.com/"). Hackers can't read intercepted information if it is sent through a website that has an *https* (e.g. "https://youtube.com/")
