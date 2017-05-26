@@ -20,3 +20,11 @@ The time it requires to guess a password scales *exponentially* with the length 
 
 ![XKCD Comic](https://imgs.xkcd.com/comics/password_strength.png)
 
+# Viruses
+How to not get a virus
+* Never run an executable ".exe" from an untrusted source
+    * Most viruses spread by running a program that infects your computer.
+* Don't pirate games or anything with an executable (movies and TV shows are okay because they can't be executed. They can only be read) 
+    * However, some executables can be hidden as video files, but this is usually obvious just by reading the name of the file (e.g. "this_is_a_movie_mp4.exe")
+* Don't *autorun* any untrusted usb. You should manually open the USB.
+    * A USB can put a malicious program in the autorun. Opening the USB manually prevents that from happening.
